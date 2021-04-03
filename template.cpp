@@ -31,7 +31,7 @@ using vs=vector<string>;
 //constant
 //------------------------------------------
 const int MOD = 1000000007;
-const int INF = 1061109567;
+const int INF = 2147483647;//1061109567;
 const double EPS = 1e-10;
 const double PI  = acos(-1.0);
 int dx[4]={1,0,-1,0};
